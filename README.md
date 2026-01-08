@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Soumya
+# 👋 Hi, I'm Sowmya
 
 🎓 First-Year B.Tech Student  
 💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast  
